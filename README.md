@@ -6,4 +6,4 @@ The course is 100% free, so feel free to follow along!
 
 Links to finished projects:
 
-[Javascript Drum Kit](/javascript-drum-kit)
+[Javascript Drum Kit](https://jdegbau.github.io/JavaScript-30/javascript-drum-kit)
