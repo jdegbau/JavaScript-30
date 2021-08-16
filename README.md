@@ -11,3 +11,4 @@ The course is 100% free, so feel free to follow along!
 - [Array Cardio Day 1](https://jdegbau.github.io/JavaScript-30/array-cardio-day-1)
 - [Flex Panels Image Gallery](https://jdegbau.github.io/JavaScript-30/flex-panels-image-gallery)
 - [Type Ahead](https://jdegbau.github.io/JavaScript-30/type-ahead)
+- [Array Cardio Day 2](https://jdegbau.github.io/JavaScript-30/array-cardio-day-2)
