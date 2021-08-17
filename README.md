@@ -12,3 +12,4 @@ The course is 100% free, so feel free to follow along!
 - [Flex Panels Image Gallery](https://jdegbau.github.io/JavaScript-30/flex-panels-image-gallery)
 - [Type Ahead](https://jdegbau.github.io/JavaScript-30/type-ahead)
 - [Array Cardio Day 2](https://jdegbau.github.io/JavaScript-30/array-cardio-day-2)
+- [Fun with HTML5 Canvas](https://jdegbau.github.io/JavaScript-30/fun-with-html5-canvas)
