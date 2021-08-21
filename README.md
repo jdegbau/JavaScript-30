@@ -14,3 +14,4 @@ The course is 100% free, so feel free to follow along!
 - [Array Cardio Day 2](https://jdegbau.github.io/JavaScript-30/array-cardio-day-2)
 - [Fun with HTML5 Canvas](https://jdegbau.github.io/JavaScript-30/fun-with-html5-canvas)
 - [Dev Tools Domination](https://jdegbau.github.io/JavaScript-30/dev-tools-domination)
+- [Hold Shift to Check Multiple Boxes](https://jdegbau.github.io/JavaScript-30/hold-shift-to-check-multiple-boxes)
